@@ -21,6 +21,9 @@ This project analyzes breast cancer data using SQL to uncover patterns in tumor 
 ## ER Diagram
 The ER diagram visualizes the relationships between entities like patients, physicians, and tumor characteristics.
 
+
+<img src="docs/ER_diagram.png" alt="ER diagram" width="600" height="300" />
+
 ## Setup
 1. Clone the repository.
 2. Import the `breast_cancer_data.sql` to MySQL Workbench.
