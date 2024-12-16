@@ -5,7 +5,8 @@ This project analyzes breast cancer data using SQL to uncover patterns in tumor 
 
 - **`data/`**: This folder contains all data-related files.
 - **`docs/`**: This folder contains all the diagrams (such as the ER diagram) related to the database design.
-- **`scripts/`**: This project contains several Python scripts for generating reports based on the data analysis.
+- **`scripts/`**: This folder contains several MySQL scripts for generating reports based on the data analysis.
+- **`reports/`**: This folder contains the outcomes of queries (.csv, .png)
 
 ## Data Resources
 - **Dataset**: [Kaggle Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
