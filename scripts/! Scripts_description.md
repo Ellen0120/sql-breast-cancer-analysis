@@ -28,7 +28,7 @@
 - **6. Biomarker Evaluation:**
   - Find the highest biomarker value for each biomarker type for the patient Jackson Brooks in the date range 2014-12-01 to 2024-12-01. Include the biomarker type, highest value, and corresponding test date.
   - We can know the highest biomarker values for the patient over the past 10 years, allowing us to compare the highest recorded values and assess any changes over time.
-  - ![outcome](reports/png/Biomarker_Evaluation.png)
+  - ![Biomarker Evaluation](reports/png/Biomarker_Evaluation.png)
  
 - **7. Treatment Comparison Report:**
   - Retrieve patient’s information, including the first letter of their last name, for patients who have undergone multiple types of treatments (RT, CT, HT, S, IT) for the same diagnosis outcome (benign or malignant). Include their treatment descriptions.
