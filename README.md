@@ -27,8 +27,9 @@ The ER diagram visualizes the relationships between entities like patients, phys
 
 ## Setup
 1. Clone the repository.
-2. Import the `breast_cancer_data.sql` to MySQL Workbench.
-3. Run SQL queries in the provided `scripts/` folder.
+2. Create the ER diagram and forward engineer into MySQL workbench
+3. Import the CSV file located in the `data/` folder into MySQL Workbench.
+4. Run SQL queries in the provided `scripts/` folder.
 
 ## Technologies
 - **SQL** (MySQL)
