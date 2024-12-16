@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes breast cancer data using SQL to uncover patterns in tumor characteristics, diagnosis, and treatment outcomes. By leveraging SQL, we aim to improve clinical decision-making and patient outcomes.
 
+- **`data/`**: This folder contains all data-related files.
+- **`diagram/`**: This folder contains all the diagrams (such as the ER diagram) related to the database design.
+- **`scripts/`**: This project contains several Python scripts for generating reports based on the data analysis.
+
 ## Data Resources
 - **Dataset**: [Kaggle Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
 - **Entities**: 9 entities, including patient data and tumor characteristics
